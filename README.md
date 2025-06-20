@@ -38,5 +38,3 @@ For major changes, please open an issue first to discuss your ideas.
 Most projects are for personal/portfolio use. For commercial or redistribution inquiries, please open an issue.
 
 ---
-
-> _Built with passion for code, games, and design._ 
