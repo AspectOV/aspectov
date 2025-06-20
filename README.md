@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 Contributing
 
-Contributions are welcome! Please:
+Contributions are welcome to any project! Please:
 
 1. Fork the repo and create your branch: `git checkout -b feature/your-feature`
 2. Commit your changes: `git commit -am 'Add new feature'`
@@ -27,7 +27,7 @@ For major changes, open an issue first to discuss what you would like to change.
 
 > © 2025 Jeremy / AspectOV. All rights reserved.
 
-This project is for personal/portfolio use. For commercial or redistribution inquiries, please contact me.
+Most projects are for personal/portfolio use. For commercial or redistribution inquiries, please contact me.
 
 ---
 
@@ -42,4 +42,4 @@ This project is for personal/portfolio use. For commercial or redistribution inq
 
 ---
 
-> _Built with passion for code, games, and design. Thank you for visiting!_
+> _Built with passion for code, games, and design._
