@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/github/followers/AspectOV?label=GitHub&style=social" alt="GitHub followers"/>
   <img src="https://img.shields.io/github/stars/AspectOV?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub stars"/>
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fjeremymhayes.com" alt="Portfolio Status"/>
-  <img src="https://img.shields.io/uptimerobot/status/m790123456-abcdef1234567890abcdef1234?label=Cloudflare%20Page" alt="Cloudflare Page Status"/>
 </p>
 
 ---
