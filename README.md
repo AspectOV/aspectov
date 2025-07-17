@@ -4,6 +4,8 @@
   <img src="https://img.shields.io/github/followers/AspectOV?label=GitHub&style=social" alt="GitHub followers"/>
   <img src="https://img.shields.io/github/stars/AspectOV?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub stars"/>
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fjeremymhayes.com" alt="Portfolio Status"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AspectOV&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" width=38%/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AspectOV&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=30%/>
 </p>
 
 ---
