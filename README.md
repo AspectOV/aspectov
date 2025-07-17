@@ -16,7 +16,7 @@ Here's a glimpse into some of my recent work:
 * **Vacancy Filled**: Dive into this **horror game** built within **Roblox Studio**, leveraging the power of **Lua/Luau** for an immersive experience.
 * **Cookie Clicker**: My faithful recreation of the addictive incremental game, also developed in **Roblox Studio** using **Lua/Luau**.
 * **FileLocker**: A robust **Windows application** designed for secure **file encryption** using **AES-256-GCM**, developed with **C#**.
-* **Personal Portfolio**: My online home, handcrafted with **HTML, CSS, and JavaScript** to showcase my skills and projects.
+* **Personal Portfolio**: My online home, handcrafted with **Typescript, Tailwind CSS, and Next.js** to showcase my skills and projects.
 
 ---
 
