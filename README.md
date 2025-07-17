@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Jeremy (AspectOV)
 
+I'm a passionate developer always looking to build interesting and impactful projects. Welcome to my GitHub profile!
+
 <p align="center">
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fjeremymhayes.com" alt="Portfolio Status"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AspectOV&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=30%/>
@@ -7,32 +9,35 @@
 
 ---
 
-## 🏆 Highlighted Projects
+## 🚀 Featured Projects
 
-- **Vacancy Filled**: Horror game (Roblox Studio, Lua/Luau)
-- **Cookie Clicker**: Game recreation (Roblox Studio, Lua/Luau)
-- **FileLocker**: AES-256-GCM file encryption app (C#, Windows)
-- **Personal Portfolio**: My personal website (HTML, CSS, JS)
+Here's a glimpse into some of my recent work:
 
----
-
-## 🧑‍💻 Contributing
-
-Contributions are welcome! To get started:
-
-1. Fork & branch: `git checkout -b feature/your-feature`
-2. Commit: `git commit -am 'Add new feature'`
-3. Push: `git push origin feature/your-feature`
-4. Open a Pull Request
-
-For major changes, please open an issue first to discuss your ideas.
+* **Vacancy Filled**: Dive into this **horror game** built within **Roblox Studio**, leveraging the power of **Lua/Luau** for an immersive experience.
+* **Cookie Clicker**: My faithful recreation of the addictive incremental game, also developed in **Roblox Studio** using **Lua/Luau**.
+* **FileLocker**: A robust **Windows application** designed for secure **file encryption** using **AES-256-GCM**, developed with **C#**.
+* **Personal Portfolio**: My online home, handcrafted with **HTML, CSS, and JavaScript** to showcase my skills and projects.
 
 ---
 
-## 🛡️ License
+## 🤝 Contributing to My Projects
 
-> © 2025 Jeremy / AspectOV. All rights reserved.
+I appreciate community contributions! If you'd like to contribute, please follow these steps:
 
-Most projects are for personal/portfolio use. For commercial or redistribution inquiries, please open an issue.
+1.  **Fork the Repository & Create a Branch**:
+    `git checkout -b feature/your-feature-name`
+2.  **Make Your Changes & Commit**:
+    `git commit -am 'Feat: Add an awesome new feature'`
+3.  **Push to Your Fork**:
+    `git push origin feature/your-feature-name`
+4.  **Open a Pull Request**: Describe your changes clearly for review.
+
+For significant changes or new feature proposals, it's always best to open an issue first for discussion.
 
 ---
+
+## ⚖️ Licensing & Usage
+
+© 2025 Jeremy / AspectOV. All rights reserved.
+
+My projects are primarily for personal portfolio and educational use. If you're interested in **commercial use or redistribution**, please open an issue to discuss potential arrangements.
