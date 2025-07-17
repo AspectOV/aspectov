@@ -10,7 +10,6 @@ I'm a passionate developer always looking to build interesting and impactful pro
   <a href="https://jeremymhayes.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-jeremymhayes.com-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/jeremymhayes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-jeremymhayes-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/YourTwitterHandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-@YourTwitterHandle-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-your.email@example.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fjeremymhayes.com" alt="Portfolio Status"/>
 </p>
 
