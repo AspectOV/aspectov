@@ -7,6 +7,22 @@ I'm a passionate developer always looking to build interesting and impactful pro
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AspectOV&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=30%/>
 </p>
 
+<p align="center">
+  <a href="https://jeremymhayes.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-jeremymhayes.com-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/jeremymhayes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-jeremymhayes-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/YourTwitterHandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-@YourTwitterHandle-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-your.email@example.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Lua/Luau-blue?style=flat-square&logo=lua&logoColor=white" alt="Lua/Luau"/>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  </p>
+
 ---
 
 ## 🚀 Featured Projects
@@ -16,7 +32,7 @@ Here's a glimpse into some of my recent work:
 * **Vacancy Filled**: Dive into this **horror game** built within **Roblox Studio**, leveraging the power of **Lua/Luau** for an immersive experience.
 * **Cookie Clicker**: My faithful recreation of the addictive incremental game, also developed in **Roblox Studio** using **Lua/Luau**.
 * **FileLocker**: A robust **Windows application** designed for secure **file encryption** using **AES-256-GCM**, developed with **C#**.
-* **Personal Portfolio**: My online home, handcrafted with **Typescript, Tailwind CSS, and Next.js** to showcase my skills and projects.
+* **Personal Portfolio**: My online home, handcrafted with **HTML, CSS, and JavaScript** to showcase my skills and projects.
 
 ---
 
