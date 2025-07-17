@@ -3,7 +3,6 @@
 I'm a passionate developer always looking to build interesting and impactful projects. Welcome to my GitHub profile!
 
 <p align="center">
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Fjeremymhayes.com" alt="Portfolio Status"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AspectOV&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=30%/>
 </p>
 
@@ -12,6 +11,7 @@ I'm a passionate developer always looking to build interesting and impactful pro
   <a href="https://www.linkedin.com/in/jeremymhayes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-jeremymhayes-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/YourTwitterHandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-@YourTwitterHandle-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-your.email@example.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fjeremymhayes.com" alt="Portfolio Status"/>
 </p>
 
 <p align="center">
