@@ -33,6 +33,7 @@ I'm a passionate developer always looking to build interesting and impactful pro
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=python3&logoColor=white" alt="Python"/>
 </p>
 
 ---
