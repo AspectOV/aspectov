@@ -6,12 +6,20 @@ I'm a passionate developer always looking to build interesting and impactful pro
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AspectOV&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=30%/>
 </p>
 
+---
+
+### 🛠️ Tools & Platforms
+
 <p align="center">
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fjeremymhayes.com" alt="Portfolio Status"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Roblox%20Studio-0075ED.svg?logo=roblox&logoColor=white"/>
 </p>
+
+---
+
+### 💻 Languages & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Lua/Luau-blue?style=flat-square&logo=lua&logoColor=white" alt="Lua/Luau"/>
