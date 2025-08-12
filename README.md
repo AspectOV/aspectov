@@ -10,6 +10,7 @@ I'm a passionate developer always looking to build interesting and impactful pro
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fjeremymhayes.com" alt="Portfolio Status"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Roblox%20Studio-%23000000.svg?logo=roblox&logoColor=white"/>
 </p>
 
 <p align="center">
