@@ -4,6 +4,7 @@ I'm a passionate developer always looking to build interesting and impactful pro
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AspectOV&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=30%/>
+  <img src="https://github-readme-stats.vercel.app/api/index/?username=AspectOV&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=30%/>
 </p>
 
 ---
