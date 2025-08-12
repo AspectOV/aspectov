@@ -17,6 +17,7 @@ I'm a passionate developer always looking to build interesting and impactful pro
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Roblox%20Studio-0075ED.svg?logo=roblox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-%23000000.svg?logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white"/>
 </p>
 
 ---
