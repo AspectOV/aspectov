@@ -44,6 +44,7 @@ I'm a passionate developer always looking to build interesting and impactful pro
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-Lua/Luau-blue?style=flat-square&logo=lua&logoColor=white" alt="Lua/Luau"/>
 </p>
+
 ---
 
 ### 🚀 Featured Projects
