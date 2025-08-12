@@ -4,7 +4,7 @@ I'm a passionate full-stack developer with a focus on creating engaging user exp
 
 - 🔭 I’m currently working on a new **Next.js** project and exploring advanced **C#** concepts.
 - 🌱 I’m always learning, with a current focus on cloud deployment and systems architecture.
-- 📫 How to reach me: **[jeremy@jeremymhayes.com](mailto:jeremy@jeremymhayes.com)**
+- 📫 How to reach me: **[Discord](https://discord.gg/XYXbtnY8zy)**
 - Portfolio: **[jeremymhayes.com](https://jeremymhayes.com)**
 
 ---
