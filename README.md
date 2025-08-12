@@ -34,7 +34,7 @@ I'm a passionate full-stack developer with a focus on creating engaging user exp
     <td width="50%">
       <h3 align="center">FileLocker</h3>
       <p align="center">
-        A robust Windows desktop application for secure file encryption and decryption using AES-256-GCM. Built with C# and WPF for a clean, native user experience.
+        A robust Windows desktop application for secure file encryption and decryption using AES-256-GCM. Built with C# and WinUI3 for a clean, native user experience.
         <br/><br/>
         <a href="https://github.com/AspectOV/FileLocker" target="_blank"><strong>View Repo »</strong></a>
         <br/>
