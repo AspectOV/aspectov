@@ -18,6 +18,9 @@ I'm a passionate developer always looking to build interesting and impactful pro
   <img src="https://img.shields.io/badge/Roblox%20Studio-0075ED.svg?logo=roblox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-%23000000.svg?logo=render&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </p>
 
 ---
