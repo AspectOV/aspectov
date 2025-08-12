@@ -61,9 +61,9 @@ I'm a passionate full-stack developer with a focus on creating engaging user exp
     </td>
     <td width="50%">
       <h3 align="center">Multi-Purpose Discord Bot</h3>
-      <p align-center>
+      <p align="center">
         A modular, multi-purpose Discord bot featuring systems for economy, moderation, and utility. Built with Python and discord.py, and deployed on Render for 24/7 uptime.
-        <br/><br/>
+        <br/><br/><br/>
         <a href="https://discord.com/oauth2/authorize?client_id=1330729582122500146" target="_blank"><img src="https://img.shields.io/badge/Add_to_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Add to Server"/></a>
       </p>
     </td>
