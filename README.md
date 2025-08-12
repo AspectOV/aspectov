@@ -1,82 +1,102 @@
-# 👋 Hi, I'm Jeremy (AspectOV)
+# Hi, I'm Jeremy (AspectOV) 👋
 
-I'm a passionate developer always looking to build interesting and impactful projects. Welcome to my GitHub profile!
+I'm a passionate full-stack developer with a focus on creating engaging user experiences, from immersive games to secure and efficient web applications. Welcome to my digital workshop!
+
+- 🔭 I’m currently working on a new **Next.js** project and exploring advanced **C#** concepts.
+- 🌱 I’m always learning, with a current focus on cloud deployment and systems architecture.
+- 📫 How to reach me: **[jeremy@jeremymhayes.com](mailto:jeremy@jeremymhayes.com)**
+- Portfolio: **[jeremymhayes.com](https://jeremymhayes.com)**
+
+---
+
+### 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AspectOV&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=30%/>
-  <img src="https://github-readme-stats.vercel.app/api/index/?username=AspectOV&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=38%/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css,js" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,lua" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,unity,robloxstudio,vercel,cloudflare" />
+  </a>
 </p>
 
 ---
 
-### 🛠️ Tools & Platforms
+### 🚀 My Featured Projects
 
-<p align="center">
-  <img src="https://img.shields.io/website?url=https%3A%2F%2Fjeremymhayes.com" alt="Portfolio Status"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Roblox%20Studio-0075ED.svg?logo=roblox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-%23000000.svg?logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</p>
----
-
-### 💻 Languages & Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-Lua/Luau-blue?style=flat-square&logo=lua&logoColor=white" alt="Lua/Luau"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Link |
-| :--- | :--- |
-| **Vacancy Filled**: Dive into this **horror game** built within **Roblox Studio**, leveraging the power of **Lua/Luau** for an immersive experience. | [![Play on Roblox](https://img.shields.io/badge/Play%20on%20Roblox-000000?style=for-the-badge&logo=roblox)](https://www.roblox.com/games/18686880348/Vacancy-Filled-Beta-Test) |
-| **Cookie Clicker**: My faithful recreation of the addictive incremental game, also developed in **Roblox Studio** using **Lua/Luau**. | [![Play on Roblox](https://img.shields.io/badge/Play%20on%20Roblox-000000?style=for-the-badge&logo=roblox)](https://www.roblox.com/games/75163776608540/Cookie-Clicker) |
-| **FileLocker**: A robust **Windows application** designed for secure **file encryption** using **AES-256-GCM**, developed with **C#**. | [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/AspectOV/FileLocker/releases/download/v1.0.1/FileLockerSetup.exe) |
-| **Personal Portfolio**: My online home, handcrafted with **Typescript, Tailwind CSS, and React** to showcase my skills and projects. | [![Website](https://img.shields.io/badge/Website-red?style=for-the-badge)](https://jeremymhayes.com) |
-| **Discord Bot**: Architected a modular, multi-purpose Discord bot with **Python** and *discord.py*, featuring systems for economy, moderation, and utility tools, deployed and hosted on **Render**. | [![Integration](https://img.shields.io/badge/Integration-7289DA?style=for-the-badge&logo=discord)](https://discord.com/oauth2/authorize?client_id=1330729582122500146) |
-
----
-
-## 🤝 Contributing to My Projects
-
-I appreciate community contributions! If you'd like to contribute, please follow these steps:
-
-1.  **Fork the Repository & Create a Branch**:
-    `git checkout -b feature/your-feature-name`
-2.  **Make Your Changes & Commit**:
-    `git commit -am 'Feat: Add an awesome new feature'`
-3.  **Push to Your Fork**:
-    `git push origin feature/your-feature-name`
-4.  **Open a Pull Request**: Describe your changes clearly for review.
-
-For significant changes or new feature proposals, it's always best to open an issue first for discussion.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">FileLocker</h3>
+      <p align="center">
+        A robust Windows desktop application for secure file encryption and decryption using AES-256-GCM. Built with C# and WPF for a clean, native user experience.
+        <br/><br/>
+        <a href="https://github.com/AspectOV/FileLocker" target="_blank"><strong>View Repo »</strong></a>
+        <br/>
+        <a href="https://github.com/AspectOV/FileLocker/releases/latest" target="_blank"><img src="https://img.shields.io/badge/Download-4CAF50?style=for-the-badge&logo=windows&logoColor=white" alt="Download"/></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Personal Portfolio</h3>
+      <p align="center">
+        My personal corner of the internet, designed to showcase my skills and projects. Built with Next.js, React, TypeScript, and Tailwind CSS for a modern, responsive design.
+        <br/><br/>
+        <a href="https://github.com/AspectOV/portfolio" target="_blank"><strong>View Repo »</strong></a>
+        <br/>
+        <a href="https://jeremymhayes.com" target="_blank"><img src="https://img.shields.io/badge/Visit_Website-E91E63?style=for-the-badge&logo=Vercel&logoColor=white" alt="Visit Website"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Vacancy Filled (Roblox)</h3>
+      <p align="center">
+        An immersive multiplayer horror game developed on the Roblox platform. The project features complex game state management, custom character mechanics, and an atmospheric sound design, all scripted in Luau.
+        <br/><br/>
+        <a href="https://www.roblox.com/games/18686880348/Vacancy-Filled-Beta-Test" target="_blank"><img src="https://img.shields.io/badge/Play_on_Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Play on Roblox"/></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Multi-Purpose Discord Bot</h3>
+      <p align-center>
+        A modular, multi-purpose Discord bot featuring systems for economy, moderation, and utility. Built with Python and discord.py, and deployed on Render for 24/7 uptime.
+        <br/><br/>
+        <a href="https://github.com/AspectOV/discord-bot" target="_blank"><strong>View Repo »</strong></a>
+        <br/>
+        <a href="https://discord.com/oauth2/authorize?client_id=1330729582122500146" target="_blank"><img src="https://img.shields.io/badge/Add_to_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Add to Server"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ⚖️ Licensing & Usage
+### 📊 My GitHub Stats
 
-© 2025 Jeremy / AspectOV. All rights reserved.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AspectOV&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="AspectOV's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AspectOV&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="AspectOV's Top Languages" width="48%"/>
+</p>
 
-My projects are primarily for personal portfolio and educational use. If you're interested in **commercial use or redistribution**, please open an issue to discuss potential arrangements.
+---
+
+### 🤝 How to Contribute
+
+I welcome contributions and collaborations! If you're interested in contributing, please feel free to fork a repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+1.  **Fork** the repository.
+2.  Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4.  Push to the branch (`git push origin feature/AmazingFeature`).
+5.  Open a **Pull Request**.
+
+---
+
+### ⚖️ License
+
+© 2025 Jeremy Hayes (AspectOV). All Rights Reserved.
+
+My projects are available for viewing and educational purposes. If you wish to use them for commercial purposes, please contact me to discuss licensing.
