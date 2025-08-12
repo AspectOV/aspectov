@@ -34,7 +34,7 @@ Here's a glimpse into some of my recent work:
 * **Cookie Clicker**: My faithful recreation of the addictive incremental game, also developed in **Roblox Studio** using **Lua/Luau**. [![Play on Roblox](https://img.shields.io/badge/Play%20on%20Roblox-000000?style=for-the-badge&logo=roblox)](https://www.roblox.com/games/75163776608540/Cookie-Clicker)
 * **FileLocker**: A robust **Windows application** designed for secure **file encryption** using **AES-256-GCM**, developed with **C#**. [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://github.com/AspectOV/FileLocker/releases/download/v1.0.1/FileLockerSetup.exe)
 * **Personal Portfolio**: My online home, handcrafted with **HTML, CSS, and JavaScript** to showcase my skills and projects. [![Website](https://img.shields.io/badge/Website-red?style=for-the-badge)](https://jeremymhayes.com)
-* **Discord Bot**: Architected a modular, multi-purpose Discord bot with **Python** and *discord.py*, featuring systems for economy, moderation, and utility tools, deployed and hosted on **Render**. [![Integration](https://img.shields.io/badge/Invite%20to%20Discord-7289DA?style=for-the-badge&logo=discord)](https://discord.com/oauth2/authorize?client_id=1330729582122500146)
+* **Discord Bot**: Architected a modular, multi-purpose Discord bot with **Python** and *discord.py*, featuring systems for economy, moderation, and utility tools, deployed and hosted on **Render**. [![Integration](https://img.shields.io/badge/Integration-7289DA?style=for-the-badge&logo=discord)](https://discord.com/oauth2/authorize?client_id=1330729582122500146)
 
 ---
 
