@@ -23,8 +23,6 @@ I'm a passionate developer always looking to build interesting and impactful pro
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </p>
 
----
-
 ### 💻 Languages & Technologies
 
 <p align="center">
